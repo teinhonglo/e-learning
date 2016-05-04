@@ -1,0 +1,38 @@
+body {
+	font: 10pt Arial, Helvetica, sans-serif;
+	color: #641b6c;
+	margin: 0px;
+	padding: 0px;
+}
+
+input {
+	color: #641b6c;
+	border: #999 1px solid;
+	height: 23px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+select, option {
+	color: #641b6c;
+	border: #999 1px solid;
+	height: 26px;
+}
+
+textarea {
+	color: #641b6c;
+	border: #999 1px solid;
+	padding: 5px;
+}
+
+th {
+	background: url(../images/th_bg.png);
+	height: 40px;
+	padding-left: 2px;
+	padding-right: 2px;
+	color: #fff;
+}
+td {
+	padding: 4px 5px 4px 5px;
+	height: 34px;
+}

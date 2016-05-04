@@ -1,0 +1,238 @@
+body
+{
+/*
+	font: 9pt "Trebuchet MS", Arial, Helvetica, sans-serif;
+*/
+	font: 10pt Arial, Helvetica, sans-serif;
+	color: #641b6c;
+	margin: 0px;
+	padding: 0px;
+}
+
+a:link
+{
+	color: #06F;
+}
+
+a:visited
+{
+	color: #06F;
+}
+
+a:active
+{
+	color: #06F;
+}
+
+a:hover
+{
+	color: #06F;
+}
+
+table
+{
+	border-collapse: collapse;
+	border: 1px solid #641b6c;
+}
+
+th
+{
+	background: url(../images/th_bg.png);
+	/*background: url(../images/table_header.png);*/
+	height: 36px;
+	padding-left: 2px;
+	padding-right: 2px;
+	color: #fff;
+	/* border: 1px dashed #ffffff; */
+	border: 1px solid #641b6c;
+	text-align: center;
+	word-break: break-all;
+}
+
+td
+{
+	padding: 4px 8px 4px 8px;
+	/* border: 1px dashed #641b6c; */
+	border: 1px solid #641b6c;
+	word-break: break-all;
+}
+
+#title
+ {
+	font: 12pt Calibri, Helvetica, sans-serif;
+	background: #C9AADD;
+	color: #641b6c;
+	font-weight: bold;
+	text-align: right;
+	word-break: break-all;
+}
+
+.odd
+{
+	background: #C9AADD;
+}
+
+.add, .add a
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+	width: 22px;
+	height: 22px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/add-icon.gif);
+	text-align: center;
+}
+
+.edit, .edit a
+{
+	display: block;
+	width: 22px;
+	height: 22px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/edit-icon.gif);
+}
+
+.edit_header, .edit_header a
+{
+	display: block;
+	width: 22px;
+	height: 22px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/edit-icon.gif);
+}
+
+.del, .del a
+{
+	display: block;
+	width: 22px;
+	height: 22px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/del-icon.gif);
+}
+
+.del, .del a
+{
+	display: block;
+	width: 22px;
+	height: 22px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/del-icon.gif);
+}
+
+.word, .word a
+{
+	display: block;
+	width: 24px;
+	height: 24px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/word-icon.png);
+}
+
+.excel, .excel a
+{
+	display: block;
+	width: 24px;
+	height: 24px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/excel-icon.png);
+}
+.submit1, .submit1 a
+{
+	display: block;
+	width: 40px;
+	height: 23px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/submit-icon.png);
+}
+
+.submit2, .submit2 a
+{
+	display: block;
+	width: 40px;
+	height: 23px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/submit-icon.png);
+}
+
+.rework, .rework a
+{
+	display: block;
+	width: 30px;
+	height: 30px;
+	text-indent: -9999px;
+	outline: none;
+	background: url(../images/rework-icon.png);
+}
+
+#loading
+{
+	position: absolute;
+	width: 100px;
+	height: 32px;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -50px;
+	font-weight: bold;
+}
+
+input[type=radio]
+{
+	padding-top: 6px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 12px;
+}
+
+textarea, select, option
+{
+	font: 12pt Calibri, Helvetica, sans-serif;
+	color: #000000;
+	border: #999 1px solid;
+	height: 20px;
+}
+
+input[type=submit], input[type=button], input[type=reset]
+{
+	font: 12pt Calibri, Helvetica, sans-serif;
+	border: #999 1px solid;
+}
+
+input[type=text], input[type=password], input[type=file]
+{
+	font: 12pt Calibri, Helvetica, sans-serif;
+	border: #999 1px solid;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+textarea
+{
+	font: 12pt Calibri, Helvetica, sans-serif;
+	border: #999 1px solid;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+select
+{
+	border: #999 1px solid;
+	padding-left: 2px;
+}
+
+.require
+{
+	color: #F00;
+}

@@ -1,0 +1,175 @@
+	ul, li {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	.abgne_tab {
+		clear: left;
+		width: 812px;
+		margin: 10px 0px 0px 6px;
+	}
+	ul.tabs {
+		width: 100%;
+		height: 32px;
+		border-bottom: 1px solid #999;
+		border-left: 1px solid #999;
+	}
+	ul.tabs li {
+		float: left;
+		height: 31px;
+		line-height: 31px;
+		overflow: hidden;
+		position: relative;
+		margin-bottom: -1px;	/* 讓 li 往下移來遮住 ul 的部份 border-bottom */
+		border: 1px solid #999;
+		border-left: none;
+		background: #e1e1e1;
+	}
+	ul.tabs li a {
+		display: block;
+		padding: 0 10px;
+		color: #641b6c;
+		font-weight: bold;
+		border: 1px solid #fff;
+		text-decoration: none;
+	}
+	ul.tabs li a:hover {
+		background: #641b6c;
+		color: #FFF;
+	}
+	ul.tabs li.active  {
+		background: #fff;
+		border-bottom: 1px solid #fff;
+	}
+	ul.tabs li.active a:hover {
+		background: #fff;
+		color: #641b6c;
+	}
+	div.tab_container {
+		clear: left;
+		width: 100%;
+		border: 1px solid #999;
+		border-top: none;
+		background: #fff;
+		padding-bottom: 5px;
+	}
+	div.tab_container .tab_content {
+		padding: 6px 6px 6px 6px;
+	}
+	div.tab_container .tab_content h2 {
+		margin: 0 0 20px;
+	}
+
+
+	.abgne_tab2 {
+		clear: left;
+		width: 780px;
+		margin: -6px 0px -6px 4px;
+	}
+	ul.tabs2 {
+		width: 100%;
+		height: 32px;
+		border-bottom: 1px solid #999;
+		border-left: 1px solid #999;
+	}
+	ul.tabs2 li {
+		float: left;
+		height: 31px;
+		line-height: 31px;
+		overflow: hidden;
+		position: relative;
+		margin-bottom: -1px;	/* 讓 li 往下移來遮住 ul 的部份 border-bottom */
+		border: 1px solid #999;
+		border-left: none;
+		background: #e1e1e1;
+	}
+	ul.tabs2 li a {
+		display: block;
+		padding: 0 12px;
+		color: #FE7306;
+		font-weight: bold;
+		border: 1px solid #fff;
+		text-decoration: none;
+	}
+	ul.tabs2 li a:hover {
+		background: #FE7306;
+		color: #FFF;
+	}
+	ul.tabs2 li.active  {
+		background: #fff;
+		border-bottom: 1px solid #fff;
+	}
+	ul.tabs2 li.active a:hover {
+		background: #fff;
+		color: #FE7306;
+	}
+	div.tab_container2 {
+		clear: left;
+		width: 100%;
+		border: 1px solid #999;
+		border-top: none;
+		background: #fff;
+	}
+	div.tab_container2 .tab_content2 {
+		padding: 14px 0px 14px 0px;
+	}
+	div.tab_container2 .tab_content2 h2 {
+		margin: 0 0 20px;
+	}
+
+
+	.abgne_tab3 {
+		clear: left;
+		width: 780px;
+		margin: -6px 0px -6px 4px;
+	}
+	ul.tabs3 {
+		width: 100%;
+		height: 32px;
+		border-bottom: 1px solid #999;
+		border-left: 1px solid #999;
+	}
+	ul.tabs3 li {
+		float: left;
+		height: 31px;
+		line-height: 31px;
+		overflow: hidden;
+		position: relative;
+		margin-bottom: -1px;	/* 讓 li 往下移來遮住 ul 的部份 border-bottom */
+		border: 1px solid #999;
+		border-left: none;
+		background: #e1e1e1;
+	}
+	ul.tabs3 li a {
+		display: block;
+		padding: 0 12px;
+		color: #FE7306;
+		font-weight: bold;
+		border: 1px solid #fff;
+		text-decoration: none;
+	}
+	ul.tabs3 li a:hover {
+		background: #FE7306;
+		color: #FFF;
+	}
+	ul.tabs3 li.active  {
+		background: #fff;
+		border-bottom: 1px solid #fff;
+	}
+	ul.tabs3 li.active a:hover {
+		background: #fff;
+		color: #FE7306;
+	}
+	div.tab_container3 {
+		clear: left;
+		width: 100%;
+		border: 1px solid #999;
+		border-top: none;
+		background: #fff;
+	}
+	div.tab_container3 .tab_content3 {
+		padding: 14px 0px 14px 0px;
+	}
+	div.tab_container3 .tab_content3 h2 {
+		margin: 0 0 20px;
+	}

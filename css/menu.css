@@ -1,0 +1,111 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+.PortwellMenuText
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #fff;
+	text-align: right;
+	padding-top: 14px;
+	padding-right: 14px;
+}
+.PortwellMenuImage
+{
+	display: block;
+	width: 180px;
+	height: 60px;
+	background: url(../images/Portwell_Menu.png);
+	text-decoration: none;
+}
+.PortwellMenuImage:hover
+{
+	display: block;
+	width: 180px;
+	height: 60px;
+	background: url(../images/Portwell_Menu.png) 180px;
+	text-decoration: none;
+}
+*/
+
+#menu
+{
+	padding: 20px 0 0 0;
+}
+#menu ul 
+{
+	float: right;
+	list-style: none;
+	margin: 0px;
+}
+#menu ul li 
+{
+	float: left;
+	margin: 0 10px;
+	display: block;
+	line-height: 30px
+}
+#menu ul li a:link, #menu ul li a:visited 
+{
+	font-weight: bold;
+	color: #641B6C;
+	text-decoration: none;
+}
+.menuDiv 
+{
+	width: 2px;
+	height: 30px;
+	background: #999;
+}
+.menu_top
+{
+	WIDTH: 100%;
+	HEIGHT: 35px;
+	MARGIN: 0px;
+	PADDING: 0px;
+	BACKGROUND: url('../images/fff1b.png') repeat-x;
+	FONT-SIZE: 17px;
+	TEXT-ALIGN: center;
+}
+.menu_top UL
+{
+	MARGIN: 0px;
+	PADDING: 6px 0px 0px 0px;
+}
+.menu_top UL LI 
+{
+	FONT-WEIGHT: bold;
+	DISPLAY: inline;
+}
+.menu_top UL LI A
+ {
+	PADDING: 13px 10px 16px 10px;
+	FONT-FAMILY: Calibri;
+	BACKGROUND-COLOR: transparent;
+	COLOR: #ffffff;
+	TEXT-DECORATION: none;
+}
+.menu_top UL LI A:hover
+{
+	PADDING: 10px 16px 16px 16px;
+	FONT-FAMILY: Calibri;
+	BACKGROUND-COLOR: #FE7200;
+	COLOR: #ffffff;
+	TEXT-DECORATION: none;
+	FONT-SIZE: 18px;
+}
+/*
+.footer
+{
+	WIDTH: 100%;
+	HEIGHT: 36px;
+	MARGIN: 0px;
+	PADDING: 3px 0px 0px 0px;
+	BACKGROUND: url('../images/fff1b.png') repeat-x;
+}
+*/

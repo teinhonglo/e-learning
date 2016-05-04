@@ -1,0 +1,44 @@
+#ReplyIssueButton {
+	display: block;
+	width: 120px;
+	height: 35px;
+	background: url(../images/portwell_button/reply_issue_button.png);
+	text-decoration: none;
+}
+#ReplyIssueButton:hover {
+	display: block;
+	width: 120px;
+	height: 35px;
+	background: url(../images/portwell_button/reply_issue_button.png) 120px;
+	text-decoration: none;
+}
+
+#ConfirmIssueButton {
+	display: block;
+	width: 120px;
+	height: 35px;
+	background: url(../images/portwell_button/confirm_issue_button.png);
+	text-decoration: none;
+}
+#ConfirmIssueButton:hover {
+	display: block;
+	width: 120px;
+	height: 35px;
+	background: url(../images/portwell_button/confirm_issue_button.png) 120px;
+	text-decoration: none;
+}
+
+#AssignIssueButton {
+	display: block;
+	width: 120px;
+	height: 35px;
+	background: url(../images/portwell_button/assign_issue_button.png);
+	text-decoration: none;
+}
+#AssignIssueButton:hover {
+	display: block;
+	width: 120px;
+	height: 35px;
+	background: url(../images/portwell_button/assign_issue_button.png) 120px;
+	text-decoration: none;
+}
